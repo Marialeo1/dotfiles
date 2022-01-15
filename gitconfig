@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leonor.varela91330@gmail.com
+	name = Maria Varela
